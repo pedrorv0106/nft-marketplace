@@ -1,0 +1,12 @@
+.env
+node_modules/
+package-lock.json
+
+#Hardhat files
+artifacts/
+build/
+cache/
+coverage/
+coverage.json
+deployments/
+deployed_dbiliaToken_address
